@@ -1,0 +1,10 @@
+se realiza la siguiente secuencia de codigos 
+git config --global user.name 
+git config --global user.gmail 
+ git clone  url
+git initls
+Git Branch -M "(nombre)"
+ git status
+git add .
+git status
+git push -u origin 
